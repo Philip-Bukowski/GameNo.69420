@@ -1,0 +1,31 @@
+SaveFile
+=======================
+
+Save Data has to be as small as possible
+
+Player Inventory (bought Items, Locations, Boostjuice, Seeds)
+Player last join Time
+Player Money
+Level Plantsconfiguration (Aufbau mit schnur und Wasserstand / Dünger) and Time
+Level Bewässerung and Location
+Level Lampen and Location 
+Number of Plants
+Samen im Kombinator
+Setzlinge und Einsetzteit 
+Neu gefundene Kombinationen und analysierte Parameter (Kombibuch) 
+
+Pflanzenconfiguration
+=============================
+
+Datei wird in der Levelconfig gespeichert
+Wird beim Öffnen der App geladen
+Als Binärcode speichern (siehe youtube Tutorial https://www.youtube.com/watch?v=XOjd_qU2Ido oder https://www.youtube.com/watch?v=Rgxbl5uIKO0)
+- Positionsnummer speichern 
+- wie ein gerichteter Suchgraph speichern 
+- Winkelabweichungen und schnur speichern
+
+Das Pflanzenwachstum beim Laden durch Zeitraffer simulieren
+
+Ladebalken (https://www.youtube.com/watch?v=YMj2qPq9CP8)
+
+

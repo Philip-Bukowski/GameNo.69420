@@ -1,0 +1,17 @@
+Sinn des Spiels
+=============================
+
+Fast jeder Kiffer hatte schon mal die Idee anzubauen und irgenwann selber ein Coffeshop aufzumachen und das ist mit dieser App endlich möglich.
+Der Spieler soll lernen eine Pflanze großzuziehen und es lieben zu lernen.
+Zeigen, dass durch eigenes Wissen die Pflanze auch immer größer wird und dass man immer erfolgreicher wird.
+Mit jedem Level wird etwas neues freigeschaltet/kaufbar und es kommt eine neue Schwierigkeit dazu. (Spieler soll nach und nach rangeführt werden)
+Wenn der Spieler fast jede Pflanze großzuziehen kann, dann soll er lernen mehrere Pflanzen zu managen und dann zu verkaufen.
+Er kann aber immer wieder zum Pflanzen zurückkommen.
+Spieler investiert in Werbung um mehr Aufmerksamkeit für seinen Shop zu bekommen => mehr Kunden => mehr Geld
+
+
+Verschiedene Samen können in einem Automaten kombiniert werden. => ideale Parameter ändern sich. Man kann sich den Namen der neuen Sorte ausdenken.
+Den Automaten kann man upgraden um mehr Samen der neuen Sorte rauszubekommen. Man kann neue Sorten mit Freunden teilen.
+
+Tips und Tricks als "Benachrichtigung" vom Growbible. Mit raufklicken können alle Tips und Tricks nochmal nachgelesen werden.
+	!!! Der Spieler soll das Spiel durchspielen können ohne Werbung geguckt und ohne Geld ausgegeben zu haben. Aber Ungedult der Spieler ausnutzen und Boostjuice anbieten !!!

@@ -1,0 +1,94 @@
+UI (gute Farbpalette auswählen)
+=========================
+
+>> Main Menu (Hintergrund verschwommener sich langsam drehender Garten bei Sonnigem Wetter)
+	>> Youtube and Instagram icon with hyperlink
+	>> Options
+	>> Growbible
+	>> Kombibuch
+	>> daily reward
+	>> wheel of fortune (once a week)
+	>> Credits
+	>> Map
+
+>> Shop for Farm
+	>> Tools
+	>> Buy
+	>> Seeds
+	>> Donation / Monthly supplies
+	>> go back to Level / close
+	
+>> Shop for Coffeshop
+	>> Info for Items
+	>> Itempicture
+	>> buy or buy and place
+	>> back to Coffeshop
+	>> go to Coffeshop inventory
+	
+>> Coffeshop Inventory
+	>> Info for Items
+	>> Itempicture
+	>> select and place Item
+	>> go to Coffeshop shop
+>> Coffeshop tools
+	>> remove
+	>> select from inventory
+	>> move (with touch and arrows)
+	>> rotate (with touch and arrows)
+
+>> Tools
+	>> Tool info with pictures
+	>> go back to Level / close
+
+>> Inventory (show and hide in Level)
+	>> Seedbank
+	>> Toolinventory
+	>> Boostjuice supplies, Schere, Gießkanne at the top
+
+>> Seeds
+	>> Seed info with Budpicture
+
+>> Infobox (with quicktip)
+	>> go to Growbiblepage
+
+>> Growbible
+	>> Kombibuch
+	>> Different Pages
+	>> Inhaltsverzeichnis 
+	>> go back to Menu/ last Level
+	
+>> Kombibuch (speichert kombinierte Sorten, deren Resultat und analysierte Daten)
+	>> Jede Seite eine Kombination
+	>> Share Screenshot of combination with friends
+
+>> Map
+	>> open bought Locations 
+	>> view Locationinfo
+		>> buy Locations
+	>> go back to Menu
+	
+>> Options
+	>> Music volume
+	>> soundfx volume
+	>> go back to Menu
+
+>> Wheel of fortune
+	>> spin
+	>> get reward
+	>> back
+	
+>> Sortenkombinierer
+	>> Samenshop
+	>> Sorten aus Inventar auswählen
+	>> kombinieren
+		>> neue Sorte Namen geben 
+	>> Kombibuch öffnen
+	>> go back to Level
+	
+>> Samenanalysierer
+	>> Samen auswählen
+	>> Samen analysieren
+	>> Kombibuch öffnen
+	>> go back to level
+
+

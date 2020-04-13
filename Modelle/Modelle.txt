@@ -1,0 +1,52 @@
+Modelle
+=================
+>> alles einfach halten 
+>> speicher sparten wo es nur geht
+
+- Pflanzentopf mit Untertopf (s,m,l,xl,xxl) (mit normaler, grüner und rote Textur zum Platzieren)
+- verschiedene Lampen (100w, 200w, 300w, 1000w, 10000w Lampen array)
+- Bewässerungsanlage (Wasserhahn aus dem Boden in den Topf)
+- Gewächshaus
+- Industriehalle
+- Luftentfeuchter
+- Klimaanlage
+- Samenanalysierer (3 Texturen) 
+- Samenkombinator  (3 Texturen)
+- Blatt (3 Texturen)
+- Ast
+- Blüte
+- Astansatz (kann auch in Unity mit Blätterobjekten erstellt werden)
+	- klein
+	- mittel
+	- groß
+- Samenschild für Töpfe
+- Baum für Locations
+- Steine
+- Schere
+- Gießkanne
+- Headshop / Coffeshop
+	- Regale
+	- Vitrine
+	- Gläser
+	- Kasse
+	- Deckenbeleuchtung
+	- Tür
+	- indoor Pflanzen
+	- verschiedene Lampen
+	- Sofas
+	- Tische
+	- Stühle (mehr sitzplätze mehr Gäste)
+	- Bilder für die Wand
+	- Tresen
+	- Personen / stehend sitzend (machen lustige sachen)
+	- Sitzkissen
+	- verschiedene Bodentexturen
+	- verschiedene Tapeten
+	- LED Leisten
+- Lagerraum mit Regalen
+- Zaun für Plantage
+- Steckdose (Amerikanisch)
+- kleine Pflanzen
+- Rasen
+- Clonbox
+- Schuppen

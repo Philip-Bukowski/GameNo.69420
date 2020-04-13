@@ -1,0 +1,25 @@
+Locations
+======================================
+								Kapazität (kleine Planzen, große Planzen brauchen mehr Platz) 
+- kleiner Garten am wasser			1	
+- kleine Growbox					1
+- medium Growbox					3
+- kleines Gewächshaus				3
+- kleiner Growroom					6
+- mittleres Gewächshaus				6
+- mittlerer Growroom				10 (wenn das Handy die Leistung hat so viele Pflanzen darzustellen)
+- großes Gewächshaus				10
+- mittlerer Garten					10
+- Clonbox							10 Setzlinge (nicht benutzte Setzlinge sterben ab)
+- Laden (vlt auch als Menu)
+- sunny Plantage (erweiterbar um 5er Reihen)		20
+- Industriehalle 					
+- Lagerraum (erweiterbar)
+- Headshop / Coffeeshop, für den man Deko kaufen kann und einrichten kann
+
+
+
+
+Frage: Ist es gut, wenn man mittlerer Growroom und großes Gewächshaus anbietet?
+		Der Spieler soll lernen mit den Parametern umzugehen, jedoch soll das Spiel sehr natürlich wirken und nicht so industriell wie ein einfacher Growroom.
+		Aber es wäre auch gut dem Spieler das zu überlassen wie er das spielen will.

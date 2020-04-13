@@ -1,0 +1,53 @@
+Donation Options
+============================
+
+	Belohnungen passen sich der Anzahl der Pflanzen an, damit es sich immer lohnt zu spenden, auch wenn man weiter im Spiel ist
+	Mit dem Glücksrad kann der Spieler mit Glück noch mehr bekommen. Der Erwartungswert muss immer die Anzahl sein die er sicher bekommt (Bei > 1€ gerne höher).
+	Teile das Spiel mit einem Freund für 2 Boostjuice oder Glücksrad.
+	>> Single Developer <<
+	
+- Schokoriegel		25ct oder Werbung gucken gegen 2 Boostjuice pro Pflanze oder Glücksrad (1-4 Boostjuice)	
+- premium Papes 	50ct gegen 5 Boostjuice oder Glücksrad (2-8 Boostjuice)
+- Actitubes     	75ct gegen 8 Boostjuice oder Glücksrad 
+- Backwoods			99ct gegen Faststartkit oder 12 Boostjuice oder Glücksrad 
+- premium Chips		199ct gegen 30 Boostjuice oder Glücksrad  => "best choice" damit der Spieler nicht lange überlegt. Angebot deutlich zeigen/vorrechnen
+- premium Coffee	249ct gegen 35 Boostjuice oder Glücksrad 
+- good Pizza		999ct	gegen 40 Megaboost oder Glücksrad 
+- Pots ("Topficon") 1499ct  gegen 100 Megaboost oder Glücksrad 
+
+Monatsabo >> Get your monthly supplies <<
+=========================
+Der Spieler bekommt jede Woche Boostjuice und anderen Dünger. Er freut sich jedes Mal wenn er für jede Pflanze mehr Dünger bekommt.
+Wesentlich mehr als wenn er Spendet => Muss deutlich gemacht werden.
+Skaliert auch mit der Anzahl an Pflanzen. (bsp 3 Boostjuice pro Pflanze pro 3 Tage => 30 Boostjuice pro Monat pro Pflanze)
+(auch sehr deutlich machen, dass es pro Pflanze ist >> Spieler will automatisch auch mehr Pflanzen haben)
+
+	//Preise und Belohnungen nur Beispiele. Müssen überarbeitet werden//
+	
+- Ab 4.99€ im Monat (3 Monate Laufzeit)	=> 15 Boostjuice pro Pflanze im Monat 
+- Ab 1.99€ im Monat (12 Monate Laufzeit) => 75 Boostjuice und Budtaste pro Pflanzenkapazität im Monat => "Community Choice" bestes Angebot in der Mitte und größer gold darstellen <=
+- Ab 2.99€ im Monat (6 Monate Laufzeit)	=> 35 Boostjuice pro Pflanze im Monat
+
+Dayly Reward
+=================
+1/8 Boostjuice pro Pflanze
+
+Youtube Channel / Instagram
+==============================
+
+- coole Sortenkombies vorstellen
+- Angebote vorstellen
+- Updates
+
+Glücksrad / Wheel of fortune 
+======================================
+Mehrere aufeinanderliegende Räder welche sich abwechselnd in und gegen den Uhrzeigersinn drehen.
+Jedes Rad lost einen anderen Dünger aus. 
+Glücksrad extra spannend prgrammieren. Speiler dreht per Hand (Drehmoment und Zielwinkel....)
+
+Vlt kriege ich auch Düngerhersteller/Growboxhersteller als Sponsor, dafür, dass ich als Sonderaktion, von denen Spezialdünger einbaue.
+Anbau Youtuber nach Tips fragen, vlt geben sie mir ja ein shoutout.
+
+
+
+

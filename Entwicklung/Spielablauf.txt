@@ -1,0 +1,124 @@
+Spielablauf:
+=====================================
+
+		Kap. 1
+	Basic Pflanze
+=======================
+- erste Location auswählen
+- Samen und Topf kaufen
+- einpflanzen
+- biegen lernen
+- gießen lernen
+- deutlich machen, dass man Geduld braucht
+- buds erkennen
+- für erste Pflanze loben
+	- anbieten mit Freunden zu teilen
+- ernten
+- Budqualität zeigen und erklären
+- günstig verkaufen
+
+		Kap. 2
+	Richtig beschneiden
+=========================
+- einpflanzen
+- beschneiden
+- Dünger geschenkt bekommen
+- düngen lernen (Spieler merkt, dass die Pflanze viel schneller wächst und eine bessere Qualität hat)
+- mehr buds erkennen
+- mehr ernten 
+- mehr und besseres verkaufen
+- wiederholen bis genug Geld für Sortenkombinierer und Analysierer
+
+
+		Kap. 3
+	  Neue Sorte
+	indoor vs outdoor
+========================
+- zwei mögliche neue Locations (Gewächshaus oder Growbox (max. 3 Pflanzen))
+- Vor und Nachteile zeigen
+
+	>> outdoor
+		+ stärkeres Licht
+		+ keine Stromkosten
+		- nicht 24h Licht
+	>> indoor 
+		+ mehr Kontrolle über Hum und Temp
+		+ 24h Licht
+		- Stromkosten
+- im Shop Bewässerung oder Licht kaufen
+- alte Sorte mit einer neuen vergleichen
+- neue Sorte kaufen
+- beide einpflanzen
+- düngen 
+- Unterschiede erkennen und deutlich machen
+- ernten und verkaufen
+
+		Kap. 4
+	Sortenkombinierer
+========================
+- Sortenkombinierer kaufen
+- Sortenkombinierer öffnen und beide Samen auswählen
+- einmaliger Timeboost sodass er sofort fertig ist (sonst Werbung gucken)
+- vorgeschlagenen Namen nehmen oder eigenen 
+- Sortenanalysierer kaufen
+- neue Sorte analysieren
+- einmaliger Timeboost sodass er sofort fertig ist (sonst Werbung gucken)
+- neue Sorte einpflanzen 
+- düngen
+- mit den anderen vergleichen 
+- ernten
+- verkaufen
+
+		Kap. 5
+	Selbständig
+========================
+- selbständig Samen kaufen, einpflanzen und kombinieren, bis genug Geld für die nächste Location ist
+
+		Kap. 6
+  neue Location
+========================
+- bei einer neuen Location immer die Wahl zwischen outdoor und indoor (kann aber auch beides haben)
+- größere Töpfe freischalten
+- Topfgröße erklären > größere Pflanzen dauern länger
+- lernen sie Zeitlich zu managen
+
+>>>> Wenn ein Spieler ein bestimmtes Kapital erreicht hat. Daten an den Entwickler zur Analyse schicken. <<<<
+				>>>> ab hier kann auch nach dem Release implementiert werden <<<<<
+>>>> verschiedene 420 Youtuber fragen ob sie als Gast im Coffeeshop, oder als Erntehelfer auftauchen wollen <<<<
+									>>>> Promotion <<<<<
+									
+		Kap. 7
+	Coffeeshop
+========================
+- Coffeeshop als neue Location kaufen
+- Coffeeshop einfach mit Kasse, Tresen und einfache Sitzgelegenheit einrichten
+- Weed an Shop senden
+- Werbung kaufen und mit Freunden teilen
+- mehr Profit pro Bud
+
+		Kap. 8
+	Plantage / Halle
+========================
+- wenn neue Location gekauft > Erntehelfer einstellen
+- endlich eine Plantage > mit Freunden teilen
+- lernen mit Erntehelfer umzugehen (Felder zuweisen (um die Felder kann sich der Spieler dann nicht mehr kümmern(Speicher sparen)) und wie viel er Düngen soll) [er gießt und bescheidet die Felder ganz gut (kann noch geupgradet werden)]
+- selber einpflanzen und der Erntehelfer kümmert sich um den Rest
+- Clonbox freischalten
+- lernen von den besten Pflanzen clone zu erstellen
+
+		Kap. 9 
+	Weiteren Coffeeshop
+===========================
+- weiteren Coffeeshop kaufen 
+- einrichten
+- lernen Buds auch an andere Coffeeshops zu schicken 
+- Lager managen
+
+		Kap. 10
+Plantage / Halle erweitern 
+============================
+- Erweiterung kaufen
+
+>>>> Loop Kap. 9 + 10 <<<<<
+===========================
+- open end der Spieler ist für immer gefangen 

@@ -1,0 +1,112 @@
+Pflanzenwachstum
+================================
+
+- Äste werden dicker, desto mehr Wasser durch sie fließt ( get from childobject )
+- Blätter und Blüten ziehen Wasser
+- Blätter wandeln Wasser in Energie um( Umso mehr Licht, desto mehr Energie)
+- Äste die mehr Energie bekommen wachsen schneller
+- die Temperatur und Luftfeuchtigkeit regelt wie effizient die Blätter Energie bekommen
+- ist die Temperatur oder die Luftfeuchtigkeit falsch => negative Effizienz
+- zu wenig Energie verändert die Farbe der Pflanze, Blätter und Äste hängen runter
+- Topfgröße regelt wie breit die Pflanze werden kann (max. 2x der Topfdurchmesser)
+- Abschnitte von einem Stamm und 2 Blättern können zum clonen benutzt werden
+- Ideale Parameter abhängig von der Sorte
+
+- Blattansätze und Äste können beschnitten werden
+- Blattansätze werden standardmäßig zu 2 Blätter mit Ästen und einem weiteren Stamm
+- Stämme wachsen schneller abhängig von der gesamt Energie
+- Äste und Stämme können gebogen werden
+- durch Boostjuice wird das Wachstum erhöht, nicht aber die Effizienz damit die Pflanze nicht damit gerettet werden kann
+- Töpfe können nur begrenzt Wasser speichern
+- Töpfe können übergossen werden
+- Stamm ist ein Ast 
+- auf einen Stamm folgt immer ein Stamm
+- wie viel Energie in der Wurzel ankommt bestimmt wie schnell sie wächst
+- die wurzel hat Energiereserven
+- Pflanze muss sich zum Licht strecken wenn sie zu wenig Licht bekommt (erster Stamm) über die Energiereserven
+- die Maximale Energiereserven erhöhen sich mit der gespeicherten Energie
+- wenn ein bestimmter Energiewert erreicht wurde, wird ein neuer Stamm produziert
+- Energiewerte exponential voneinander entfernt
+- mit der Vergangenen Zeit (vergangene Iterationen) muss der neue Zuwachs errechnet werden
+
+Class Topf(){
+	int Durchmesser = 50 //cm
+	int maxWassermenge
+	int Wassermenge = 500 //ml
+	
+	maxWassermenge = Durchmesser * //errechnen
+	
+	void getWassermenge();
+	void setWassermenge()
+
+}
+
+
+Class Stamm(){
+	
+	getIdealParametersFromParent()
+	get energie from child()
+	effizienz = sign(idealTemp - localTemp) / (idealTemp - maximaleAbweichung) * ( sign(idealHum - localHum) / (idealHum - maximaleAbweichung))		//Überarbeiten
+	
+	Engergie = getEngergieFromChild() * effizienz;
+	Wasser = getFromParent() * booster
+	setSize();
+	
+}
+
+Class Blatt(){
+	getIdealParametersFromParent()
+	for each Lightsource  effizienz = effizienz +(1/(distanceToLightsource))
+	Wasser = getFromParent()
+	Energie = Wasser * effizienz
+	umgesetzteEnergie += Engergie
+	
+	setSize(umgesetzteEnergie)
+}
+
+Class Blüte(){
+
+}
+
+Erste Schritte
+
+		>> in Iterationen ausrechnen <<
+- simple Topfdesign 
+	durchmesser
+	maxWassermenge
+	currentWassermenge
+	Energiespeicher  		//Startspeicher
+	getEnergieFromChild
+	
+- Setzlingsverhalten programmieren
+	zwei Blätter und ein Stamm
+	ideale Umgebung
+
+- Energiespeicher erreicht einen bestimmten Wert => Blattansätze einfügen und verhalten programmieren
+	wird zu Stammerweiterung mit zwei Blättern
+	
+- Äste drehen sich zum Licht und die Blätter tangential zum Abstandsradius der Lichtquelle
+	Es sollte sich eine Kette von Stämmen mit mehreren AstBlättern ausbilden
+	
+- Blattansätze mit klicken beschneiden und 1-3 Stämme hinzufügen
+
+- Äste rotieren und mit einer schnur am Topf festmachen
+
+- Planze komplett wachsen lassen
+
+- verschiedne Parameter testen und konsequenzen
+
+- Speichern und laden
+
+- Pflanzenwachstum mit Zeitraffer und vergangener Zeit simulieren (nach dem Laden) (kann sehr rechenaufwändig werden bei Plantagenlevel)
+
+- >> für Debugzwecke Scrript, welches das Inventar und Geld immer auffüllt und <<
+
+
+
+
+
+
+	
+
+

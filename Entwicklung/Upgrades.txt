@@ -1,0 +1,13 @@
+Upgrades
+===============
+
+- Boostjuice, Megaboost, HealthJuice, BudTaste, Ultikombi(Kombination aus mehreren Düngersorten)
+- Temperatursensor und Regler (nur für indoor)
+- Luftfeuchtigkeitssensor und Regler (nur indoor) klein Mittel und Groß abhängig von der Location 
+- Bewässerungsanlage (kann man wie Töpfe kaufen und an die Pflanze stellen)
+- Verschiedene Lampen (mehrere kaufbar und an die Pflanze stellbar/hängbar)
+- verschiedene Töpfe (s,m,l,xl,xxl)
+- Growhelper für Gewächshaus und Plantage
+- verschiedene Locations
+- Sortenkombiautomat (10,20,40 Samen / langsam mittel schnell Kombiniergeschwindigkeit)
+- Samenanalyser => gibt teile von idealen Parametern preis (mit Upgrades mehrere Parameter) [erster ist gebrauch und bisschen kaputt, analysiert random einen Parameter, der zweite ist heile und kann ein Parameter nach Wahl analysieren, der dritte kann dann mehrere Parameter gleichzeitig analysieren]
